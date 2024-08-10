@@ -1,4 +1,4 @@
-# Personal Portfolio Website using vanilla CSS
+# Personal Portfolio Website using CSS and vanilla JS
 
 
 Home Page:
